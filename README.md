@@ -22,7 +22,6 @@ Tradable Cryptocurrencies Table:
 ![Tradable Table](https://github.com/LLeyva-bot/Cryptocurrencies/blob/main/Images/Fig4.png)
 
 2D-Scatter plot with Total Coin Mined vs Total Coin Supply:
- - Plotting the scatter plot from two cryptocurrency features does not efficiently segregate the different classes.
 ![2DScatter Plot](https://github.com/LLeyva-bot/Cryptocurrencies/blob/main/Images/Fig3.png)
 
 ## Summary
